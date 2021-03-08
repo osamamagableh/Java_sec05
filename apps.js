@@ -17,11 +17,11 @@ var iteamorded='';
 
 if (order=='Royal')
 {
-    iteamorded = '<img src="/Images/RoyalMAsk.jpg" />';
+    iteamorded = '<img src="./Images/RoyalMAsk.jpg" />';
 }
 else 
 {
-    iteamorded = '<img src="/Images/KN95.jpg" />';
+    iteamorded = '<img src="./Images/KN95.jpg" />';
 }
 
 
